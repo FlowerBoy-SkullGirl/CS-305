@@ -3,7 +3,8 @@ Classwork submitted for SNHU CS-305
 
 
 Turning Something In: A guide on submitting your final assignment just for the sake of it
-```
+
+
 - Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
     Artemis Financial is a global financing company that requires hightened security measures due to the sensitive nature of the data that they handle as part of their business model. In these projects, we harden their web server to provide excellent service to their clients as well as to comply with legal regulation.
 - What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
@@ -18,6 +19,6 @@ Turning Something In: A guide on submitting your final assignment just for the s
     I always strive to make code modular and reusable by breaking functions down into logically small sub-procedures. This practice enables easy changes to be made to sub-procedures, easy re-use of code in other applicable places, and readily understood code, when given decent naming conventions.
 - Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
     I hope that employers do not take interest in these projects, as I am far more proud of my personal projects. That being said, I could utilize the course material as 'proof' that I am familiar with industry-standard secure coding practices.
-```
+
 
 I have come to realize that as individuals, we often say we value quality over quantity, but as a whole, our society pushes us towards producing only quantity. At every place of employment I have worked, my employer would have been more satisfied with a higher quantity of work than a greater quality. In school, we are told to write essay after essay each week, producing only what is needed to reach the rubriced goals. Venturing further than what is required would prove pointless, as we do not hold passion for this class, rather passion for the subject. All that to say, I would rather be producing high quantities of something useful, rather than what our society demands of us, which in large part, is temporary and pointless, like the paperwork that will never be seen by eyes other than my own, but I am told to complete each day 'in case someone looks at it,' despite the paperwork not having any significant details worth looking for. Ah, what a life we have created for ourselves.
